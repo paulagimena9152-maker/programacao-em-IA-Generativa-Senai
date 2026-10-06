@@ -31,4 +31,4 @@ Durante os estudos, utilizo diversas tecnologias essenciais no ecossistema de da
 
 1. Clone o repositório em sua máquina:
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)# programacao-em-IA-Generativa-Senai
+   git clone ([https://github.com/seu-usuario/seu-repositorio.git)# programacao-em-IA-Generativa-Senai](https://github.com/paulagimena9152-maker/programacao-em-IA-Generativa-Senai/tree/main)
